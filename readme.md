@@ -2,7 +2,7 @@
 
 ## CI Status
 
-[![CI](../../.github/workflows/ci.yml/badge.svg)](../../.github/workflows/ci.yml)
+[![CI](./.github/workflows/ci.yml/badge.svg)](./.github/workflows/ci.yml)
 
 ## Project Structure
 
